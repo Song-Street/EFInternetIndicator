@@ -1,9 +1,9 @@
 PODS:
-  - EFInternetIndicator (0.5.0):
-    - SwiftMessages (~> 5.0.1)
-  - SwiftMessages (5.0.1):
-    - SwiftMessages/App (= 5.0.1)
-  - SwiftMessages/App (5.0.1)
+  - EFInternetIndicator (0.0.6):
+    - SwiftMessages (~> 7.0.0)
+  - SwiftMessages (7.0.0):
+    - SwiftMessages/App (= 7.0.0)
+  - SwiftMessages/App (7.0.0)
 
 DEPENDENCIES:
   - EFInternetIndicator (from `../`)
@@ -17,8 +17,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  EFInternetIndicator: 923ca71b5da59b43868e7fab8d19e04ea83a6578
-  SwiftMessages: 32ce3cfc8388b41aae56ff4853cc752a20101147
+  EFInternetIndicator: d37367c540764a34c3d09b2ac953566b35afc330
+  SwiftMessages: a952f7a9103d9aeab93730a2861d2d8fcdd8758f
 
 PODFILE CHECKSUM: 8e2f1e2aa1e7bcede3b95da3211a39ba70a31291
 
